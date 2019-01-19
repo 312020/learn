@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Découverte du HTML </title>
+    </head>
+
+    <body>
+            <p> Un paragraphe écrit en HTML   </p>
+     </body>
+
+</html>
